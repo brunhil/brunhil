@@ -2,6 +2,7 @@
 - 🌱 I’m currently learning React, Golang
 - 👨‍💻 I enjoy contributing to open source projects
   - terraform-provider-azurerm
+  - terraform-provider-aws
 
 <!---
 brunhil/brunhil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
